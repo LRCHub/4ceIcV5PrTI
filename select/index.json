@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "我ら！ゴミ分別団",
+  "base_artist": "かてらざわ",
+  "createdAt": "2026-02-09T18:16:51.336901Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "我ら!ゴミ分別団 (feat. 重音テト & ずんだもん)",
+      "artist": "かてらざわ",
+      "has_synced": false,
+      "path": "select/pl_01_我ら!ゴミ分別団_(feat._重音テト_&_ずんだもん)_かてらざわ.txt"
+    }
+  ]
+}
